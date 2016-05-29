@@ -1,0 +1,33 @@
+[
+ {
+  "id": "56f582067ccdec13dd855ce6",
+  "name": "Sunny",
+  "hasTV": "yes",
+  "beds": "three"
+
+ },
+ {
+  "id": "56f58206714fc1bdbedadde8",
+  "name": "Cold",
+  "hasTV": "yes",
+  "beds": "four"
+ },
+ {
+  "id": "56f58206688d48558b785851",
+  "name": "Rainy",
+  "hasTV": "no",
+  "beds": "two"
+ },
+ {
+  "id": "56f5820699db3339189cf1f3",
+  "name": "Big",
+  "hasTV": "no",
+  "beds": "six"
+ },
+ {
+  "id": "56f58206048e0928aec1cc54",
+  "name": "Small",
+  "hasTV": "yes",
+  "beds": "one"
+ }
+]
